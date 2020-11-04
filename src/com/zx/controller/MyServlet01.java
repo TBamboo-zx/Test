@@ -16,5 +16,6 @@ public class MyServlet01  extends HttpServlet {
             System.out.println("this way is to save");
         }
         System.out.println(11);
+        System.out.println(11);
     }
 }
