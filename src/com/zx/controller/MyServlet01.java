@@ -15,5 +15,6 @@ public class MyServlet01  extends HttpServlet {
         if("/studentSave.do".equals(path)){
             System.out.println("this way is to save");
         }
+        System.out.println(11);
     }
 }
